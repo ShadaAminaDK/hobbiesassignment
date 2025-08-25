@@ -20,7 +20,7 @@ function App() {
      <Card
      title="Card Title"
      description="This is a description of the card."
-     imageUrl="https://tse3.mm.bing.net/th/id/OIP.JRYX72Z84A2welJlpkeGWQHaE8?pid=Api&P=0&h=180"
+     imageUrl="https://tse3.mm.bing.net/th/id/gitOIP.JRYX72Z84A2welJlpkeGWQHaE8?pid=Api&P=0&h=180"
      />
     
      
